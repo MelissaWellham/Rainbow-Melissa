@@ -1,0 +1,30 @@
+p {
+	font-family: helvetica, arial, sans-serif;
+	font-size: 20px;
+}
+
+p em {
+color: red;
+}
+
+p em span{
+	color: orange;
+}
+
+p em span span{
+	color: yellow;
+}
+
+p em span span span{
+	color: green;
+}
+
+p em span span span span{
+	color: blue;
+}
+p em span span span span span{
+	color: purple;
+}
+p em span span span span span span{
+	color: lavender;
+}
